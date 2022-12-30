@@ -1,0 +1,282 @@
+{
+  "bgp": [
+    {
+      "title": "client",
+      "description": {
+        "part1": "Balai Guru Penggerak ",
+        "part2": "Provinsi Lampung"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://paudlampung.newus.id/"
+      }
+    }
+  ],
+  "cg": [{
+      "title": "client",
+      "description": {
+        "part1": "Cash Gampang "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "Flutter,Dart,PHP,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "cashgampang.com"
+
+      }
+    }
+  ],
+  "ekinerja": [{
+      "title": "client",
+      "description": {
+        "part1": "Dinas Pendidikan dan Kebudayaan Kab. Kepahiang "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Code Igniter"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "-"
+      }
+    }
+  ],
+  "frc": [{
+      "title": "client",
+      "description": {
+        "part1": "Fathir Rent Car, "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Code Igniter"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "fathirrentcar.com"
+      }
+    }
+  ],
+  "kasir": [{
+      "title": "client",
+      "description": {
+        "part1": "PT.MDM Nurwijaya Perdana "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "mdmnp.com"
+      }
+    }
+  ],
+  "mahakamulu": [{
+      "title": "client",
+      "description": {
+        "part1": "Pemerintah Kabupaten Mahakam Ulu"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://mahakamulu-kab.id/"
+      }
+    }
+  ],
+  "ojk": [{
+      "title": "client",
+      "description": {
+        "part1": "OJK Lampung "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://pakemlampung.id/"
+      }
+    }
+  ],
+  "ppdb": [{
+      "title": "client",
+      "description": {
+        "part1": "SMA 2 Perintis Bandar Lampung"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "-"
+      }
+    }
+  ],
+  "pupr": [{
+      "title": "client",
+      "description": {
+        "part1": "PUPR Kabupaten Pesawaran "
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://pupr.pesawarankab.go.id/"
+      }
+    }
+  ],
+  "ramatrans": [{
+      "title": "client",
+      "description": {
+        "part1": "RamaTranz Travel Lampung"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://ramatranstravel.com/"
+      }
+    }
+  ],
+  "rumahmadueki": [{
+      "title": "client",
+      "description": {
+        "part1": "Rumah Madu Eki "
+      }
+    },
+
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Code Igniter"
+    },
+    {
+      "title": "date",
+      "description": "2022"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "rumahmadueki.com"
+      }
+    }
+  ],
+  "simtaru": [{
+      "title": "client",
+      "description": {
+        "part1": "Dinas Pekerjaan Umum ",
+        "part2": " Kab. Lampung Utara"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Laravel"
+    },
+    {
+      "title": "date",
+      "description": "2021"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://simtaru-lampura.com/peta"
+      }
+    }
+  ],
+  "tna": [{
+      "title": "client",
+      "description": {
+        "part1": "PT. PLN",
+        "part2": "UPDL Lampung"
+      }
+    },
+    {
+      "title": "Teknologi",
+      "description": "PHP,Javascript,Ajax,Code Igniter"
+    },
+    {
+      "title": "date",
+      "description": "2021"
+    },
+    {
+      "title": "URL",
+      "description": {
+        "part1": "https://tnabumn.id/login/"
+      }
+    }
+  ]
+
+}

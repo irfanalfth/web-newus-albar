@@ -1,0 +1,21 @@
+[{
+    "image": "/assets/img/icons/fe1.png",
+    "title": {
+      "text1": "Web Development"
+    }
+  },
+  {
+    "image": "/assets/img/icons/fe2.png",
+    "title": {
+      "text1": "Digital Marketing"
+    }
+  },
+  {
+    "image": "/assets/img/icons/fe3.png",
+    "title": {
+      "text1": "Mobile App Development "
+    },
+    "new": true
+  }
+
+]

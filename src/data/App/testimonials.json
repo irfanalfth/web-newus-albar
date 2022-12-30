@@ -1,0 +1,44 @@
+{
+  "numCards": [
+    {
+      "stars": 5,
+      "image": "/assets/img/testimonials/ojk.jpg"
+    }
+  ],
+  "testiCards": [
+    {
+      "userImg": "/assets/img/testimonials/ojk.jpg",
+      "stars": 5,
+      "title": {
+        "text1": "Sangat bagus dan berpengalaman jika membuat sistem informasi di Cv. Newus Teknologi"
+      },
+      "author": {
+        "name": "OJK Lampung",
+        "position": "Senior Marketing",
+        "company": ""
+      }
+    },
+    {
+      "userImg": "/assets/img/testimonials/mdm2.jpeg",
+      "stars": 5,
+      "title": "“Software Aplikasi Akunting terbaik di Lampung, sukses selalu Cv.Newus Teknologi”",
+      "author": {
+        "name": "MDM Nurwijaya P.",
+        "position": "Admin MDM",
+        "company": ""
+      }
+    },
+    {
+      "userImg": "/assets/img/testimonials/a2.png",
+      "stars": 5,
+      "title": {
+        "text1": "”Perusahaan IT terbaik di lampung, dengan hasil yang memuaskan,jaya selalu cv.newus teknologi "
+      },
+      "author": {
+        "name": "SMA 2 Perintis Lampung",
+        "position": "Bidang Tata Usaha",
+        "company": ""
+      }
+    }
+  ]
+}

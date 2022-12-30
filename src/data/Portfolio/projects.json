@@ -1,0 +1,131 @@
+{
+  "filters": [
+    {"title": "All", "filter" : "all"},
+    { "title": "Pemerintahan", "filter": ".pemerintahan" },
+    { "title": "Perusahaan Swasta", "filter": ".swasta" },
+    { "title": "Pendidikan", "filter": ".pendidikan" },
+    { "title": "Finansial Teknologi", "filter": ".ft" }
+
+  ],
+  "projects": [
+    {
+      "link": "/portfolio/ekinerja",
+      "filter": "pemerintahan pendidikan",
+      "image": "/assets/img/projects/prog/e-kinerja.jpg",
+      "title": "Pengadaan Aplikasi Arsip Ijasah dan E-Kinerja",
+      "type": "Website Development",
+      "details": "Pengadaan Aplikasi Arsip Ijasah dan E-Kinerja Kab. Kepahiang.",
+      "tags": ["PHP", "Javascript","Ajax","Code Igniter"]
+    },
+    {
+      "link": "/portfolio/kasir",
+      "filter": "ft",
+      "image": "/assets/img/projects/prog/kasir.jpg",
+      "title": "Aplikasi Kasir dan Akunting",
+      "type": "Mobile App Development",
+      "details": "Aplikasi ALIN Kasir dan Akunting.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/rumahmadueki",
+      "filter": "swasta",
+      "image": "/assets/img/projects/prog/rumah-madu-eki.jpg",
+      "title": "Website Rumah Madu Eki",
+      "type": "Website Development",
+      "details": "Website Resmi Rumah Madu Eki Lampung.",
+      "tags": ["PHP", "Javascript","Ajax","Code Igniter"]
+    },
+    {
+      "link": "/portfolio/frc",
+      "filter": "swasta",
+      "image": "/assets/img/projects/prog/frc.jpg",
+      "title": "Website Fathir Rent Car",
+      "type": "Website Development",
+      "details": "Website Resmi Fathir Rent Car Lampung.",
+      "tags": ["PHP", "Javascript","Ajax","Code Igniter"]
+
+    },
+    {
+      "link": "/portfolio/mahakamulu",
+      "filter": "pemerintahan",
+      "image": "/assets/img/projects/prog/mahakam-ulu.jpg",
+      "title": "Website Pribadi Bupati dan Wakil Bupati Kab. Mahakam Ulu",
+      "type": "Website Development",
+      "details": "Website Resmi Bupati dan wakil Bupati.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/bgp",
+      "filter": "pemerintahan pendidikan",
+      "image": "/assets/img/projects/prog/bgp.jpg",
+      "title": "Website BGP Provinsi Lampung",
+      "type": "Website Development",
+      "details": "Balai Guru Pengerak Provinsi Lampung.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    
+    {
+      "link": "/portfolio/cg",
+      "filter": "swasta",
+      "image": "/assets/img/projects/prog/cg.jpg",
+      "title": "Mobile App Fintech Cash Gampang",
+      "type": "Mobile App Development",
+      "details": "Dapatkan Pengalaman Instan Dan Mudah Dengan Menggunakkan Aplikasi. Anda Dapat Melakukan Banyak Hal Hanya Dengan Satu Genggaman Dimanapun Kapanpun. Download Sekarang.",
+      "tags": ["Flutter", "Dart", "PHP", "Laravel"]
+    },
+    {
+      "link": "/portfolio/tna",
+      "filter": "swasta pemerintahan",
+      "image": "/assets/img/projects/prog/tna.jpg",
+      "title": "Aplikasi Training Need Analysis ( TNA )",
+      "type": "Website Development",
+      "details": "Fungsi Training Need Analysis :1. Mengumpulkan informasi tentang skill, knowledge dan feeling pekerja., 2. Mengumpulkan informasi tentang job content dan job context.,3. Mendefinisikan kinerja standar dan kinerja aktual dalam rincian yang operasional, 4. Melibatkan stakeholders dan membentuk dukungan, 5.Memberi data untuk keperluan perencanaan..",
+      "tags": ["PHP", "Javascript","Ajax","Code Igniter"]
+    },
+    {
+      "link": "/portfolio/simtaru",
+      "filter": "pemerintahan",
+      "image": "/assets/img/projects/prog/simtaru.jpg",
+      "title": "SIMTARU KAB LAMPUNG UTARA",
+      "type": "Website Development",
+      "details": "Merupakan sebuah aplikasi yang digunakan untuk pemerintah daerah untuk menampilkan informasi aktifitas perencanaan, pemanfaatan dan pengendalian tata ruang wilayah. Aplikasi simtaru dapat dimanfaatkan oleh masyarakat dan para pelaku usaha untuk meningkatkan kegiatan dengan rencana tata ruang. Aplikasi ini juga sebagai bagian keterbukaan informasi publik yang dilakukan oleh pemerintah daerah.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/pupr",
+      "filter": "pemerintahan",
+      "image": "/assets/img/projects/prog/pupr.jpg",
+      "title": "Website Dinas PUPR Kab. Pesawaran",
+      "type": "Website Development",
+      "details": "Website Dinas.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/ojk",
+      "filter": "pemerintahan",
+      "image": "/assets/img/projects/prog/ojk.jpg",
+      "title": "Pasar Kredit Murah Lampung by OJK",
+      "type": "Website Development",
+      "details": "Sistem Informasi pengajuan kredit.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/ppdb",
+      "filter": "pendidikan",
+      "image": "/assets/img/projects/prog/ppdb.jpg",
+      "title": "Aplikasi PPDB Online",
+      "type": "Mobile App Development",
+      "details": "Pengadaan Aplikasi PPDB Online.",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    },
+    {
+      "link": "/portfolio/ramatrans",
+      "filter": "swasta",
+      "image": "/assets/img/projects/prog/ramatrans.jpg",
+      "title": "Website RamaTrans Travel Lampung",
+      "type": "Website Development",
+      "details": "Merupakan Aplikasi penunjang kegiatan di perusahaan yang bergerak di bidang travel and tour yaitu RamaTrans Travel Lampung",
+      "tags": ["PHP", "Javascript","Ajax","Laravel"]
+    }
+  ]
+}

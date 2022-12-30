@@ -1,0 +1,15 @@
+{
+  "address": "Jl. Raden Gunawan II, Gg. Dipangga IX, Rajabasa, Bandar Lampung, Lampung",
+  "phone": "+6287898644177",
+  "email": "newustechnology@gmail.com",
+  "services": [
+    { "link": "/services-details/website/", "title": "Web Development" },
+    { "link": "/services-details/mobile-app/", "title": "Mobile App Development" },
+    { "link": "/services-details/digital-marketing/", "title": "Digital Marketing" }
+  ],
+  "information": [
+    { "link": "/about-us", "title": "About Us" },
+    { "link": "/blog", "title": "Blog" },
+    { "link": "/contact-us", "title": "Contact" }
+  ]
+}

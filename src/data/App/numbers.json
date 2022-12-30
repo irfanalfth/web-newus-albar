@@ -1,0 +1,25 @@
+[{
+    "value": 4,
+    "operator": "+",
+    "title": {
+      "part1": "Years",
+      "part2": "of Experience"
+    }
+  },
+  {
+    "value": 30,
+    "operator": null,
+    "title": {
+      "part1": "Projects",
+      "part2": "completed"
+    }
+  },
+  {
+    "value": 47,
+    "operator": null,
+    "title": {
+      "part1": "Happy Clients",
+      "part2": "24 countries"
+    }
+  }
+]

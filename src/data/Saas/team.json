@@ -1,0 +1,46 @@
+[{
+    "picture": "/assets/img/team/1.jpeg",
+    "name": "Antoni",
+    "position": "CEO Founder"
+  },
+  {
+    "picture": "/assets/img/team/5.jpeg",
+    "name": "Diki Rahmad Sandi",
+    "position": "CTO"
+  },
+  {
+    "picture": "/assets/img/team/3.jpeg",
+    "name": "Ade Rahman",
+    "position": "Fullstack Developer"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Achmad Fauzi",
+    "position": "Frontend Developer"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Albar",
+    "position": "Web Developer"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Irfan Alfatih",
+    "position": "UI/UX Design"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Roby Ortega",
+    "position": "Fullstack Developer"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Novri",
+    "position": "Marketing"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Sandi",
+    "position": "Marketing"
+  }
+]

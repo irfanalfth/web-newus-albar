@@ -1,0 +1,22 @@
+[
+  {
+    "link": "/services-details/website",
+    "image": "/assets/img/icons/features/4.png",
+    "title": "Website Development",
+    "description": "Pengembangan web atau web development adalah sebuah proses untuk pemeliharaan sekaligus pembangunan sebuah situs.Dalam hal ini, tugas web development adalah untuk menciptakan situs yang menarik, kinerjanya cepat dengan sesuai kebutuhan pelanggan."
+  },
+  {
+    "link": "/services-details/mobile-app",
+    "image": "/assets/img/icons/features/6.png",
+    "title": "Mobile App Development",
+    "description": "Mobile app developer berperan dalam membangun produk berupa aplikasi berbasis mobile, umumnya terdiri dari sekolompok programmer yang telah terlatih dan terbiasa dengan hal tersebut."
+  },
+  {
+    "link": "/services-details/bootcamp",
+    "image": "/assets/img/icons/features/3.png",
+    "title": "BootCamp",
+    "description": "Coming Soon!!!!"
+  }
+
+ 
+]

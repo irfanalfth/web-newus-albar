@@ -1,0 +1,19 @@
+{
+    "title": {
+        "title1": "Profesional",
+        "title2": "Experience",
+        "title3": "Responsibility",
+        "title4": "Integrity",
+        "title5": "Satisfaction",
+        "title6": "Innovation"
+
+    },
+    "icon":{
+        "icon1": "/assets/img/about/about_logos/profesional.png",
+        "icon2": "/assets/img/about/about_logos/experience.png",
+        "icon3": "/assets/img/about/about_logos/responsibility.png",
+        "icon4": "/assets/img/about/about_logos/integrity.png",
+        "icon5": "/assets/img/about/about_logos/satisfaction.png",
+        "icon6": "/assets/img/about/about_logos/innovation.png"
+    }
+}

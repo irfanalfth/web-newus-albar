@@ -1,0 +1,61 @@
+[{
+    "picture": "/assets/img/team/antoni.jpeg",
+    "name": "Antoni S.T",
+    "position": "Direktur"
+  },
+  {
+    "picture": "/assets/img/team/diki.jpeg",
+    "name": "Diki Rahmad Sandi A.Md.Kom",
+    "position": "Direktur Teknik ( CTO )"
+  },
+  {
+    "picture": "/assets/img/team/novri.jpg",
+    "name": "Novri AndI Afrizal S.E.",
+    "position": "Administrasi Keuangan"
+  },
+  {
+    "picture": "/assets/img/team/ade.jpeg",
+    "name": "Ade Rahman S.Kom.",
+    "position": "Fullstack Developer"
+  },
+  {
+    "picture": "/assets/img/team/fauzi.jpeg",
+    "name": "Achmad Fauzi S.Kom.",
+    "position": "Frontend Developer"
+  },
+  {
+    "picture": "/assets/img/team/albar.jpg",
+    "name": "Achmadi Hudadin Albarqi S.Kom.",
+    "position": "Web Developer"
+  },
+  {
+    "picture": "/assets/img/team/irfan.jpeg",
+    "name": "Irfan Al - Fath A.Md.Kom.",
+    "position": "UI/UX Design"
+  },
+  {
+    "picture": "/assets/img/team/roby.jpg",
+    "name": "Roby Ortega",
+    "position": "Fullstack Developer"
+  },
+  {
+    "picture": "/assets/img/team/4.jpeg",
+    "name": "Sandi Ardian",
+    "position": "Account Executive"
+  },
+  {
+    "picture": "/assets/img/team/nurul.jpg",
+    "name": "Nurul Isti Fada",
+    "position": "Junior Developer"
+  },
+    {
+    "picture": "/assets/img/team/nuci.jpeg",
+    "name": "Nuci Wahyuni",
+    "position": "Junior Developer"
+  },  
+  {
+    "picture": "/assets/img/team/silvy.jpeg",
+    "name": "Dety Silvyana",
+    "position": "Administrasi Media Sosial"
+  }
+]
